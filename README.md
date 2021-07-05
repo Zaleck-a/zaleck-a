@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Alexis
 #### I am a web developer
-![I am a web developer](https://zalec.me)
+![I am a web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I love working with angular and the entire MEAN stack, I plan to continue in this group of technologies until I have fully mastered it.
 
