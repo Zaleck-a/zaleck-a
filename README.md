@@ -7,7 +7,7 @@ I love working with angular and the entire MEAN stack, I plan to continue in thi
 Skills: ANGULAR / JS / HTML / CSS / NODE.JS
 
 - 🔭 I’m currently working on a web application about favorite landmarks 
-- 🌱 I’m currently learning REDUX 
+- 🌱 I’m currently learning NESTJS 
 - 💬 Ask me about Angular y JS 
 - 📫 How to reach me: alexisgunitt@gmail.com 
 - 😄 Pronouns: zaléc 
