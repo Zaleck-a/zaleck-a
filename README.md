@@ -2,13 +2,13 @@
 # Hi there 👋, my name is Alvaro 
 ## I am a web developer
 
-I love working with angular and the entire MEAN stack, I plan to continue in this group of technologies until I have fully mastered it.
+I love working with typescript as a front-end developer.
 
-Skills: ANGULAR / JS / HTML / CSS / NODE.JS
+Skills: ANGULAR / TS / JS / NgRx / RxJs / Jest / HTML / CSS / NODE.JS
 
-- 🔭 I’m currently working on a web application about favorite landmarks 
+- 🔭 In my current job i'm working on a web application about electronic invoicing 
 - 🌱 I’m currently learning NESTJS 
-- 💬 Ask me about Angular y JS 
+- 💬 Ask me about Angular y TS
 - 📫 How to reach me: alexisgunitt@gmail.com 
 - 😄 Pronouns: zaléc 
 
